@@ -948,13 +948,20 @@
     </LinesFillTint>
     <DrawLinesFill>true</DrawLinesFill>
     <EQType>4</EQType>
-    <GaugeDrawTemplate>
-      <Background>A_dzThinBackground</Background>
-      <Fill>A_dzThinFill</Fill>
+	<GaugeDrawTemplate>
+      <Background>Nill_XP_BG_s</Background>
+      <Fill>A_dzFill_s</Fill>
       <!--<Lines>A_GaugeLines</Lines>-->
-      <LinesFill>Nilli_LinesFill</LinesFill>
+      <LinesFill>A_dzLines_s</LinesFill>
     </GaugeDrawTemplate>
   </Gauge>
+<!--     <GaugeDrawTemplate>
+      <Background>A_dzThinBackground</Background>
+      <Fill>A_dzThinFill</Fill>
+      
+      <LinesFill>Nilli_LinesFill</LinesFill>
+    </GaugeDrawTemplate> 
+  </Gauge>-->
   <Label item="IW_AltAdv">
     <ScreenID>AltAdvLabel</ScreenID>
     <Size>

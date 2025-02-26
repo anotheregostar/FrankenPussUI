@@ -920,8 +920,8 @@
     <DrawLinesFill>false</DrawLinesFill>
     <EQType>9</EQType>
     <GaugeDrawTemplate>
-      <Background>A_dzThinBackground</Background>
-      <Fill>A_dzThinFill</Fill>
+      <Background>A_dzThinBackgroundSBW</Background>
+      <Fill>A_dzThinFillSBW</Fill>
     </GaugeDrawTemplate>
   </Gauge>
   <Gauge item="SBW_Scribe_Gauge">
@@ -951,8 +951,8 @@
     <DrawLinesFill>false</DrawLinesFill>
     <EQType>10</EQType>
     <GaugeDrawTemplate>
-      <Background>A_dzThinBackground</Background>
-      <Fill>A_dzThinFill</Fill>
+      <Background>A_dzThinBackgroundSBW</Background>
+      <Fill>A_dzThinFillSBW</Fill>
     </GaugeDrawTemplate>
   </Gauge>
   <Button item="SBW_MemPage0_Button">
