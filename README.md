@@ -7,8 +7,8 @@ FrankenPussUI is a custom user interface for EQMAC based Everquest emulators.
 ### Download & Installation
 
 - [Download the latest release](https://github.com/anotheregostar/FrankenPussUI/releases/latest)
-- Extract the FrankenUI folder to your **uifiles** folder within your main Everquest directory.
-- Type `/load FrankenUI 1` in-game to select it.
+- Extract the **FrankenPussUI** folder to your **uifiles** folder within your main Everquest directory.
+- Type `/load FrankenPussUI 1` in-game to select it.
 
 ### Requirements
 [Zeal](https://github.com/iamclint/Zeal/releases) is required to display various elements, detailed installation instructions found [here](https://github.com/iamclint/Zeal?tab=readme-ov-file#installation)
