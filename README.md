@@ -1,7 +1,7 @@
 # FrankenPussUI
 
 FrankenPussUI is a custom user interface for EQMAC based Everquest emulators. 
-![FrankenUI main](https://github.com/user-attachments/assets/c0db867c-ead5-442b-a374-f8fbfe857570)
+![FrankenPussUI Main](https://github.com/user-attachments/assets/aa487e50-4700-4f4a-9432-c567df3410b3)
 <br>This is a version of [FrankenUI](https://github.com/anotheregostar/FrankenUI/) based on [NillipussUI](https://github.com/NilliP/NillipussUI_1440p) rather than Powerof2, and should be compatible with additional Nillipuss UI features as they are released.
 
 ### Download & Installation
@@ -47,6 +47,6 @@ NillipussUI is highly recommended and you can find the 1080p version [here](http
 Special thanks as well to **Salty** and the rest of the Zeal team for adding all of these great QoL features to EQMac based UIs!
   
 ## Screenshots
-![FrankenUI spellbook](https://github.com/user-attachments/assets/81c7f838-b5c1-4853-be79-3824c588fff7)
-![FrankenUI hotbutton and socials](https://github.com/user-attachments/assets/085376a1-dd4a-4ad9-800e-6e4b45bcd97f)
-![FrankenUI inventory and bags](https://github.com/user-attachments/assets/8f6276f6-f464-4ce2-9bc0-f25c86075cd6)
+![Most Windows](https://github.com/user-attachments/assets/ce2dc5a0-d67f-48e6-8362-8dfbdb45a4e6)
+![Spellbook](https://github.com/user-attachments/assets/55340c1f-996d-4b6a-9d93-811a3c2f1e46)
+
